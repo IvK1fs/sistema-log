@@ -21,7 +21,7 @@ void cadastrarnotas(vector<string> &lista) {
 
     lista.push_back(aluno);
 
-    cout << "notas cadastradas com sucesso!\n";
+    cout << "aluno cadastrado com sucesso!\n";
     
     string media;
     
