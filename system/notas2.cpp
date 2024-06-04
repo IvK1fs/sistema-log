@@ -58,7 +58,7 @@ void exibirLista(const vector<string> &lista) {
 
     for (const string &dado : lista) {
 
-        cout << "//"<< "["<< dado << "]" << endl<<endl;
+        cout << "//"<< "["<< dado << "]" << endl;
 
        
     }
