@@ -1,1 +1,18 @@
+#include <iostream>
+int main() {
+  float nota1;
+  float nota2;
+  float nota3;
+  float nota4;
+  float media;
+  
+  std::cout<< "digite suas notas\n"; 
+  std::cin>> nota1>> nota2>> nota3>> nota4;
+  media = (nota1 +nota2 +nota3 +nota4);
+media = media/4;
+  std::cout<< "a media do aluno e\n" <<media;
+
+  return 0; }
+
+
 
