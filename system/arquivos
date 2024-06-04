@@ -16,3 +16,22 @@ media = media/4;
 
 
 
+  #include <iostream>
+int x, y;
+
+std::string soma(int num1, int num2) {
+std::string resultado= std::to_string(num1+num2);
+return resultado;
+}
+
+int main() {
+
+  std::cout << "Write your number";
+  std::cin >> x;
+  std::cout << "Write your second number";
+  std::cin>> y;
+  std::cout<< soma(x, y);
+
+  return 0;};
+
+
