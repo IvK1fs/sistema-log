@@ -15,3 +15,4 @@ As funcionalidades são as seguintes:
 
 *Após compilar o programa, execute-o com o comando : **./aluno**
    
+AUTORES: Julia Sodre e João David Salomão
