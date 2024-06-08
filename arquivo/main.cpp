@@ -9,7 +9,7 @@ using namespace std;
 class dados {
 public:
     string names;
-    int nota1, nota2, media;
+    double nota1, nota2, media;
 };
 
 void cadastrarAluno(vector<dados> &alunos) {
