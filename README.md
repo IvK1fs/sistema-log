@@ -2,7 +2,7 @@ Este é um sistema simples de cadastramento de notas de um aluno
 
 As funcionalidades são as seguintes:
 - 1. **Cadastro de alunos e das suas notas
-- 2. **Exibição dos dados cadastrados
+- 2.  **Exibição dos dados cadastrados
 - 3. **Sair do sistema
 
 **Certifique-se de ter um compilador C++ instalado em seu sistema.**
