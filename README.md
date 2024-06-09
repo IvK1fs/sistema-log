@@ -5,7 +5,7 @@ As funcionalidades são as seguintes:
 - 2. **Exibição dos dados cadastrados
 - 3. **Sair do sistema
 
-**Certifique-se de ter um compilador C++ instalado em seu sistema.
+**Certifique-se de ter um compilador C++ instalado em seu sistema.**
 
 **Abra um terminal na pasta do programa.**
 
