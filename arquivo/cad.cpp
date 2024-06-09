@@ -84,7 +84,7 @@ int main() {
         cout << "\nMenu de opções:\n";
         cout << "1. Cadastrar alunos no sistema\n";
         cout << "2. Exibir notas\n";
-        cout << "3. Sair do sistema\n";
+        cout << "3. Sair\n";
         cout << "Escolha uma opção: ";
         cin >> opcao;
 
