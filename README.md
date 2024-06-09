@@ -9,7 +9,7 @@ As funcionalidades são as seguintes:
 
 **Abra um terminal na pasta do programa.**
 
-**Compile o programa utilizando o comando: **g++ main.cpp -o aluno****
+**Compile o programa utilizando o comando: **g++ cad.cpp -o aluno****
 
 **Isso criará um arquivo executável chamado "aluno" na mesma pasta.****
 
